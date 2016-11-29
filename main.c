@@ -1,4 +1,4 @@
-//Lukasz Smigielski, 270823
+//Lukasz Smigielski
 //Program tworzy drzewo binarne kompresujace N-elementowy ciag bitow.
 //Praca w dwoch trybach: interaktywnym (klawiatura-ekran) lub plikowym (z pliku do pliku)
 //Data powstania: 20.05.2015, 23:47
